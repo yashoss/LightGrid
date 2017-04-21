@@ -2,7 +2,7 @@
 class PriorityQueue {
 
   // Initialize empty heap
-	constructor(){
+  constructor(){
     this.heap = [];
     this.size = 0;
   }
